@@ -1,5 +1,5 @@
 input + .help, textarea + .help {
-  display: none;
+  /*display: none;*/
 }
 input.is-danger + .help, textarea.is-danger + .help {
   display: block;
